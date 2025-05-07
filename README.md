@@ -20,6 +20,20 @@ A scalable, secure, and feature-rich RESTful API for an online marketplace platf
 - **Authentication**: JSON Web Tokens (JWT)
 - **API Architecture**: RESTful
 - **Dependencies**: Managed via Composer
+- 
+## Installation
+
+**Coming Soon**
+
+Detailed instructions on how to install and set up the Marketplace API will be provided here. This will include:
+
+- System requirements
+- Step-by-step installation guide
+- Environment configuration
+- Database migration and seeding
+- Running the API server
+
+Stay tuned for updates!
 
 ## API Documentation
 
